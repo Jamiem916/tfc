@@ -2,35 +2,35 @@
   "local": {
     "Sedan_Hail_Day": {
       "levy": 1.32,
-      "flagfall": 5,
+      "flagfall": 5.17,
       "booking_fee": 0,
       "cutoff_km": 12,
-      "rate_short": 2.52,
-      "rate_long": 2.29
+      "rate_short": 2.61,
+      "rate_long": 2.37
     },
     "Sedan_Hail_Night": {
       "levy": 1.32,
-      "flagfall": 5,
+      "flagfall": 5.17,
       "booking_fee": 0,
       "cutoff_km": 12,
-      "rate_short": 3,
-      "rate_long": 2.73
+      "rate_short": 3.1,
+      "rate_long": 2.82
     },
     "Maxi_Hail_Day": {
       "levy": 1.32,
-      "flagfall": 7.5,
+      "flagfall": 7.76,
       "booking_fee": 0,
       "cutoff_km": 12,
-      "rate_short": 3.78,
-      "rate_long": 3.435
+      "rate_short": 3.92,
+      "rate_long": 3.56
     },
     "Maxi_Hail_Night": {
       "levy": 1.32,
-      "flagfall": 7.5,
+      "flagfall": 7.76,
       "booking_fee": 0,
       "cutoff_km": 12,
-      "rate_short": 4.5,
-      "rate_long": 4.095
+      "rate_short": 4.65,
+      "rate_long": 4.23
     },
     "Sedan_Booking_Day": {
       "levy": 1.32,
@@ -50,19 +50,19 @@
     },
     "Maxi_Booking_Day": {
       "levy": 1.32,
-      "flagfall": 7.5,
+      "flagfall": 7.76,
       "booking_fee": 5,
       "cutoff_km": 5,
-      "rate_short": 4.78,
-      "rate_long": 3.435
+      "rate_short": 5.42,
+      "rate_long": 3.92
     },
     "Maxi_Booking_Night": {
       "levy": 1.32,
-      "flagfall": 11.34,
+      "flagfall": 11.64,
       "booking_fee": 5,
       "cutoff_km": 5,
-      "rate_short": 5.5,
-      "rate_long": 4.095
+      "rate_short": 6.15,
+      "rate_long": 4.65
     }
   },
   "long_distance": {
